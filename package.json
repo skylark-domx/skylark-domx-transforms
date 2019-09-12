@@ -1,7 +1,7 @@
 {
-  "name": "skylark-domx-browser",
+  "name": "skylark-domx-transforms",
   "version": "0.9.0",
-  "description": "The skylark browser library for dom api extension.",
+  "description": "The skylark transform library for dom api extension.",
   "main": "-",
   "scripts": {
     "build": "sbundle build .",
@@ -10,7 +10,7 @@
   "homepage": "www.skylarkjs.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skylark-domx/skylark-domx-browser.git"
+    "url": "git+https://github.com/skylark-domx/skylark-domx-transforms.git"
   },
   "keywords": [
     "skylark",
@@ -22,7 +22,7 @@
   ],
   "author": "Hudaokeji Co.,Ltd",
   "license": "MIT",
-  "bugs": "https://github.com/skylark-domx/skylark-domx-browser/issues",
+  "bugs": "https://github.com/skylark-domx/skylark-domx-transforms/issues",
   "dependencies": {
     "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
     "skylark-domx-browser": "git+https://github.com/skylark-domx/skylark-domx-browser.git#master",
