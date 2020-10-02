@@ -115,7 +115,7 @@ define([
         appliedTransforms = transform + ' ' + appliedTransforms;
       }
       /* jshint boss:true */
-    } while (el = el.parentNode);
+    } while (el = el.parentElement);
 
     if (window.DOMMatrix) {
       return new DOMMatrix(appliedTransforms);
